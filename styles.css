@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ca780d;
+  padding: 20px;
+  color: #cc3775;
+}
+
+h1, h2 {
+  color: #14ac28;
+}
+
+img, video {
+  margin-top: 10px;
+  border: 2px solid #0e84b3;
+  border-radius: 8px;
+}
